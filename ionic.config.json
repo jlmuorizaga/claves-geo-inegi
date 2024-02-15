@@ -1,0 +1,7 @@
+{
+  "name": "claves-geo-inegi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
